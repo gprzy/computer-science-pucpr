@@ -51,7 +51,7 @@
 	url = https://github.com/gprzy/vehicles-counting.git
 
 [submodule "object-tracking"]
-	path = vehicles-counting
+	path = object-tracking
 	url = https://github.com/gprzy/object-tracking.git
 
 [submodule "license-plate-recognition"]
