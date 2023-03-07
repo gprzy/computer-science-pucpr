@@ -1,0 +1,63 @@
+[submodule "modeling-of-physical-phenomena"]
+	path = modeling-of-physical-phenomena
+	url = https://github.com/gprzy/modeling-of-physical-phenomena.git
+
+[submodule "metropolitan-region-graph"]
+	path = metropolitan-region-graph
+	url = https://github.com/gprzy/metropolitan-region-graph.git
+
+[submodule "enron-graph-analysis"]
+	path = enron-graph-analysis
+	url = https://github.com/gprzy/enron-graph-analysis.git
+
+[submodule "transactions-pyspark"]
+	path = transactions-pyspark
+	url = https://github.com/gprzy/transactions-pyspark.git
+
+[submodule "credit-scoring"]
+	path = credit-scoring
+	url = https://github.com/gprzy/credit-scoring.git
+
+[submodule "linear-programming"]
+	path = linear-programming
+	url = https://github.com/gprzy/linear-programming.git
+
+[submodule "ahp"]
+	path = ahp
+	url = https://github.com/gprzy/ahp.git
+
+[submodule "master-theorem-analysis"]
+	path = master-theorem-analysis
+	url = https://github.com/gprzy/master-theorem-analysis.git
+
+[submodule "sorting-complexity-analysis"]
+	path = sorting-complexity-analysis
+	url = https://github.com/gprzy/sorting-complexity-analysis.git
+
+[submodule "casino-monte-carlo"]
+	path = casino-monte-carlo
+	url = https://github.com/gprzy/casino-monte-carlo.git
+
+[submodule "euromillions-jackpot"]
+	path = euromillions-jackpot
+	url = https://github.com/gprzy/euromillions-jackpot.git
+
+[submodule "pyro5-voter"]
+	path = pyro5-voter
+	url = https://github.com/gprzy/pyro5-voter.git
+
+[submodule "vehicles-counting"]
+	path = vehicles-counting
+	url = https://github.com/gprzy/vehicles-counting.git
+
+[submodule "object-tracking"]
+	path = vehicles-counting
+	url = https://github.com/gprzy/object-tracking.git
+
+[submodule "license-plate-recognition"]
+	path = license-plate-recognition
+	url = https://github.com/gprzy/license-plate-recognition.git
+
+[submodule "simpsons-classification"]
+	path = simpsons-classification
+	url = https://github.com/gprzy/simpsons-classification.git
